@@ -1,0 +1,13 @@
+{
+    "name": "kyunwu/test",
+    "type": "project",
+    "require": {
+        "php-webdriver/webdriver": "^1.8"
+    },
+    "authors": [
+        {
+            "name": "goffh91",
+            "email": "goffh91@naver.com"
+        }
+    ]
+}
